@@ -57,9 +57,9 @@ const positions = [
         program: '',
         daterange: 'January 2013 - June 2017',
         points: [
-          'Design, develop, and maintain cutting-edge application software [Java, SQL] to fully automate Environmental testing integrated with user-driven API regression test.',
-          'Responsible for writing performance automation scripts in [python, C#], and executing the test cases providing the load/performance results in JSON or XML format.',
-          'Responsible for developing and maintaining front-end [ExtJS, JavaScript, HTML, CSS, Bootstrap, JQuery, DHTMLX, SQL] aspect of a resource tracking application that upper management utilizes to plan and allocate resource',
+          'Designed and developed Environmental Suite application software [Java, Swing, SQL] to fully automate Environmental testing integrated with user-driven API regression test.',
+          'Designed and developed performance automation scripts in [Python, C#, REST, JSON, ], and executing the test cases providing the load/performance results in JSON or XML format.',
+          'Designed and developed Resource tracker application as a single page application displaying a gantt chart overview of engineer\'s schedules for better resource planning and allocation. Tech Stack: [ExtJS (sencha), JavaScript, HTML, CSS, Bootstrap, JQuery, DHTMLX, SQL]',
         ],
       },
     ],
