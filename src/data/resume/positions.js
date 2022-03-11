@@ -43,7 +43,7 @@ const positions = [
         points: [
           'Delivered several innovative mobile products/solutions for Spireon\'s new car business segment (Kahu, GoldStar, Fleet).',
           'Managed test driven development efforts in coordination with the offshore team that resulted in an automated regression test coverage of 80% of all test cases and decreased testing time by as much as 80% (180 mins down to 30 mins)',
-          'Developed analytical dashboard in MEAN stack to help monitor engineer efficiency with automated vs manual test progress, increasing visibility on automation efforts to upper management. TBootstrap, JQuery, DHTMLX, SQL] aspect of a resource tracking application that upper management utilizes to plan and allocate resource.',
+          'Developed analytical dashboard  in MEAN stack to help monitor engineer efficiency with automated vs manual test progress, increasing visibility on automation efforts to upper management.',
         ],
       },
     ],
