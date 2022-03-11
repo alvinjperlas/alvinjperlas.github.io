@@ -27,7 +27,7 @@ const Index = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy;Alvin Perlas &nbsp;<Link to="/">alvinperlas.com</Link>.</p>
+      <p className="copyright">&copy;Alvin Perlas &nbsp;<Link to="/">alvinjperlas.com</Link>.</p>
     </section>
 
   </Main>
